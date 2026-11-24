@@ -1,0 +1,2471 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": "2026-10-30",
+  "recordType": "editorial-research-log",
+  "purposeZh": "MuseFrame Phase 3 本次中文内容与艺术史研究记录。汇集实际查阅的官方页面、日期、已核对事实、本地图像观察和不确定性；不是在线服务缓存、实时数据源、博物馆网页存档或自动更新日志。",
+  "scope": {
+    "existingArtworkCount": 360,
+    "researchedArtworkCount": 88,
+    "researchBatches": [
+      {
+        "id": "a",
+        "artworkCount": 44
+      },
+      {
+        "id": "b",
+        "artworkCount": 44
+      }
+    ],
+    "newArtworkImports": false,
+    "imageObservationSource": "项目现有离线图像资源；文档仅引用项目相对路径，不复制图像。"
+  },
+  "editorialLimits": [
+    "japanese-painting 沿用现有内容分类ID；《神奈川冲浪里》的实际媒介仍是木版画，不改作油画或西方流派。",
+    "本文不新增跨艺术家的影响关系；有共同年代不等于已证实影响。",
+    "老彼得·勃鲁盖尔出生仅有约略年份，records不填精确birthYear，短传保留“约1525年”。",
+    "Sargent《Generalife》1912及Homer《Gulf Stream》后续重绘超出某流派常用主要时段；movement为既有作品策展关联，不能以界线改写作品日期。",
+    "官方标示近似年、跨年、替代年或仅active-by时省略birthYear。Memling/Lotto/Giotto/Lippi/Bellini/Claude/Titian/Botticelli/Holbein/Hals及首批Mantegna/Duccio不强填。",
+    "视觉观察为研究者阅读项目现有图像后的描述，与馆方已核对事实分列；描述不是对创作动机、人物心理或单件作品影响关系的证明。",
+    "来源为所列日期实际查阅的官方页面。页面此后可能更新，本记录不代表持续联网复核、实时API数据或完整网页副本。",
+    "影响与师生关系只有在保留官方资料依据时才记录；候选关系单列，研究记录不等同于当前产品发布的关系集合。",
+    "印象派1860–1900标示19世纪主要活动期，相关探索延续至20世纪初；马奈、萨金特等关联不等于群展成员身份，作品日期不受策展范围裁改。"
+  ],
+  "contextGroups": {
+    "seventeenth-century-classicism": "17世纪古典取向的年代/实践语境，含Poussin与Claude；不是18世纪neoclassicism。",
+    "eighteenth-century-painting": "18世纪绘画的宽泛时代语境，供不适宜硬归Rococo的作品使用，不主张统一风格。",
+    "nineteenth-century-painting": "19世纪的纯年代语境；柯罗《旷野中的夏甲》作于1835年，不因此硬归巴比松或浪漫主义流派。"
+  },
+  "artworks": [
+    {
+      "artworkID": "met-436535",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436535"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436535.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1889年；圣雷米柏树主题；其后另作画室版本。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "比较柏树向上的轮廓与麦田横向铺开的走势。",
+        "顺着云的弧线，看它怎样回应远山。",
+        "观察近处麦穗：颜色不是涂平的，而是一笔一笔并置。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。保留已有导览正文，仅缩短默认简介。"
+    },
+    {
+      "artworkID": "met-39799",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/39799"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-39799.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1830—1832年；《富岳三十六景》木版画；北斋1760—1849年。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "在大浪下方寻找远处的富士山。",
+        "比较浪尖的白与山顶的白，观察两处如何呼应。",
+        "看船身的斜线，感受它们怎样穿过水面的曲线。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。保留已有导览正文，仅缩短默认简介。"
+    },
+    {
+      "artworkID": "met-10497",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/10497"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-10497.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1836年；康涅狄格河牛轭形河湾；前景有画家自己的形象。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "比较画面左右两侧的天气、笔触和土地形态。",
+        "沿着河流的弯曲走一遍，感受它如何组织远景。",
+        "在前景寻找画家与他的画具，留意观看者的位置。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。保留已有导览正文，仅缩短默认简介。"
+    },
+    {
+      "artworkID": "met-435882",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435882"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435882.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1890年；塞尚较少画盆栽花卉；本作曾由莫奈收藏。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "从左侧苹果看向右上方花盆：低矮的果实与高出的叶片怎样取得平衡？",
+        "白布的折线围住一颗颗苹果；比较果实边缘的红、黄、绿，而不只看明暗。",
+        "留意桌面两侧的斜线和露出的桌腿，空间并没有完全服从一个固定视点。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-437658",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437658"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437658.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1884年最后习作；完成作1886年展出；习作笔触未统一成圆点。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "比较前景的暗色草地和中间明亮的草地，看看同一片绿色里并置了哪些颜色。",
+        "人物、树干和阳伞形成一排排直立形状，河岸的斜线把它们串联起来。",
+        "靠近看衣服和草地：许多笔触是短线和小色块，并非整齐一致的圆点。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-437881",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437881"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437881.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1662年；窗边盥洗；白色织物保护衣服和头发。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "比较白头巾的亮面与阴影，白色并不只有一种。",
+        "看水壶与托盘怎样反射周围颜色。",
+        "注意窗框、地图和桌边构成的垂直与水平线。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。保留已有导览正文，仅缩短默认简介。"
+    },
+    {
+      "artworkID": "met-438817",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438817"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438817.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1874年；朱尔·佩罗指导考试；构想场景设于已被烧毁的旧歌剧院。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "顺着木地板的斜线向里看，前景留下的空地怎样把视线送向正在考试的舞者？",
+        "比较右侧拄手杖的教师和四周等候的舞者：站立、整理衣服、休息的姿势各不相同。",
+        "镜子延伸了室内空间，白色舞裙上的淡蓝与粉色又让人群彼此呼应。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-436532",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436532"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436532.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1887年；巴黎时期二十余幅自画像之一；早期农民习作背面作画。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "顺着额头、脸颊和胡须上的短笔看：笔触会随着脸部结构改变方向。",
+        "比较草帽的黄色与外套里的蓝紫色，小面积红绿也出现在面部周围。",
+        "背景仍由可辨认的笔触组成，人物并没有从一块平涂底色里浮出来。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-437854",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437854"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437854.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1845年；1845年皇家美术学院展出；当时评论反应不一。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "从左下方深色的鲸体看向中间浅色帆船，轮廓在哪里清楚，又在哪里消失？",
+        "海浪、喷溅和天空的浅色彼此交叠，试着找出海平线，而不是先寻找每个细节。",
+        "船和小艇的尺度，与周围大片风浪形成了怎样的对比？"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-10481",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/10481"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-10481.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1859年；1853和1857年赴南美；厄瓜多尔多份习作的综合构图。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "先找远处的雪峰，再看前景密集的树叶：两者之间隔着多少层山谷？",
+        "瀑布和河道穿过中部，明暗交替怎样把视线一步步引向远方？",
+        "左下方的十字架和小人物提供了尺度，留意它们在广阔景观中的位置。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-436528",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436528"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436528.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1890年5月四幅花束之一；原本紫花粉背景；易褪色红颜料改变现貌。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "花叶向左右伸展，浅色花瓶却收得很紧；看这两种轮廓如何形成对照。",
+        "比较花瓣的短折线与叶片的长线，笔触如何区分不同植物形态？",
+        "观察花束周围的浅色背景，再与下方绿色桌面相较：花束并不靠深色背景才显得清楚。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-437430",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437430"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437430.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1883年；可能画室创作并借用诺曼底习作；意大利旅行后风格转变。"
+      ],
+      "artistFactsVerified": "官方对象页的 Artist / nationality / life dates 字段；流派沿用项目已有可信归类。",
+      "directVisualObservations": [
+        "把人物面部与右上方的海面放在一起看：哪一处边界更清楚，笔触更难察觉？",
+        "草帽、领口与藤椅扶手形成几道弧线，围住人物的头部和双手。",
+        "蓝绿色衣服、海水和背景树影相互呼应，但质地各不相同。"
+      ],
+      "editorialNotes": "原创中文归纳；观察文字依据已查看缩略图；不推断人物心理或无来源的影响关系。"
+    },
+    {
+      "artworkID": "met-437299",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437299"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437299.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1867年；1868年沙龙展出并获左拉评论；法国画家1830—1903年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "从画面下方宽阔的道路向里走，看看道路怎样在村屋旁收窄。",
+        "山坡上的田界、树篱与村屋的直线，使柔和起伏有了人的痕迹。",
+        "右侧深绿树丛压住近景，与远处浅亮的田野形成距离。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-438417",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438417"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438417.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1825—1830年；同构图第三版本；人物身份属推测；1774—1840年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "在两人的肩头之间寻找月亮，比较微亮天空与近处深色身体。",
+        "弯曲的树干和横出的树枝围成一个不规则开口，把月亮留在其中。",
+        "岩石、小路和树根挤在近处，远方却几乎没有可辨认的细节。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-459112",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/459112"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-459112.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1892年；政府委托计划中的五个构图版本之一。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "看站立少女指向乐谱的手，与坐着少女放在琴键上的手怎样相接。",
+        "两颗头的倾斜方向不同，却把视线聚到同一处。",
+        "白裙的浅色与钢琴的深褐色相邻，窗帘、花瓶和蝴蝶结则补入柔和色彩。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-435809",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435809"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435809.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1565年；安特卫普商人委托的六幅季节组画之一；出生约1525，卒1569。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "顺着麦田里的斜线向远处移动，观察空间如何层层展开。",
+        "比较树下休息的人和仍在田间劳动的人。",
+        "看近处饱和的金黄怎样渐渐变成远处的灰蓝。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。保留已有导览正文，仅缩短默认简介。"
+    },
+    {
+      "artworkID": "met-436947",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436947"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436947.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1874年阿让特伊；日本版画构图与印象派交往；女子身份不确定。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "船舷与右上方的帆杆形成强烈斜线，比较它们与水平水纹的方向。",
+        "男子白衣和女子蓝裙各成一片色面，人物没有被细节平均分散。",
+        "画边截住船和帆，水面延伸到画外，找不到传统风景画常见的远岸。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-11145",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/11145"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-11145.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1865年内战后；联邦军外套/水壶提示退伍身份；1836—1910年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "在右下方找旧军装与水壶，再回到人物手中的长柄镰刀。",
+        "比较站立麦秆与已割倒麦秆的方向，动作把田野分成两个区域。",
+        "人物背对我们，白衬衣是大片金黄中最集中的亮处。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-436819",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436819"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436819.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1912—1913年；九岁模特、弗勒格衣裙与多份习作；1862—1918年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "比较脸部较细致的塑造，与衣裙、地毯和墙上趋于平面的花纹。",
+        "手臂在腰间折出角度，双脚分开，白裙因此有了结实的支撑。",
+        "腰间鲜花、发上的蝴蝶结与背景零散小花相互回应。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-435868",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435868"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435868.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1890—1892年；当地农场工人习作；牌局组画逐渐简化。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "三位坐着的人围住桌面，后方站立者又把视线压回牌局。",
+        "比较帽檐、肩膀和桌边的方向，看看它们如何分配画面的重量。",
+        "墙上的烟斗与桌上的纸牌都很小，却为大块衣服和身体带来节奏。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-438822",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438822"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438822.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1907年；巴黎植物园与印刷物组合；卢梭1844—1910年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "先寻找中央下方的狮子，再看前景叶片怎样遮挡它的身体。",
+        "叶子、花朵与树干的轮廓都很清楚，比较它们相互覆盖的次序。",
+        "黄色与蓝色花朵穿插在深绿之间，上方浅色圆日又使密林留出一点空隙。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-12116",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/12116"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-12116.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1912年格拉纳达；艾米莉/简·德·格伦/多洛雷斯身份；水彩媒介。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "沿画架的斜边看向中央人物的手，画中也藏着一次绘画活动。",
+        "比较人物面部的亮处与后方深绿树荫，少量浅色怎样把身体带出来。",
+        "下方瓷砖和左侧浅色弧线并未逐块描完，水彩留下的空隙也参与构图。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-459123",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/459123"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-459123.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1888年阿尔勒；奥古斯蒂娜与女儿玛塞尔；鲁兰一家系列。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "婴儿的白衣占据中央，母亲的深绿衣服被压到右边，比较两者面积。",
+        "母亲的双手包住孩子下半身，手指的长线与婴儿短小手臂形成对比。",
+        "面孔和白衣里的绿、粉、黄并未混成一种颜色，近看仍保留笔触。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-438815",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438815"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438815.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1878年委托；男童与姐姐相近童装；1879年沙龙。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "留意左侧坐在狗身上的女孩，以及母亲身旁穿相似裙装的男孩。",
+        "母亲黑色长裙形成深色斜面，孩子的白色衣领和裙摆从中显出。",
+        "屏风、花瓶、织物与低桌构成细密背景，比较这些图案与人物肌肤的处理。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-437397",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437397"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437397.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1660年五十四岁自画像；厚涂面部与笔杆划发。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "额头、眼下与鼻尖的亮处较厚，比较脸部与外套暗处的表面。",
+        "帽边下的卷发有些像刻出的细线，笔杆末端也参与了作画。",
+        "目光朝向观看者，肩部和身体却略有转折，姿态并不完全正对。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-11122",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/11122"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-11122.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1899年，1906年前重绘；黑人男子/甘蔗/洋流的历史语境由馆方解释。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "近处鲨鱼围绕船体，右上方的水龙卷把危险延伸到远方。",
+        "破桅杆和船上的甘蔗与人物同在，留意这艘船承载的物品。",
+        "左侧地平线上有一艘帆船，它与前景人物的距离没有被消除。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-437654",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437654"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437654.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1887—1888年；马戏帐篷外免费招徕演出；1888年独立沙龙。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "看上方火焰状灯光与下方圆形人头，重复的形状怎样形成上下呼应。",
+        "中央高帽乐手、树干和台面栏杆将画面切成竖横区块。",
+        "比较灯下暖色与暗处蓝紫色，细小色点仍贯穿人工照明的夜景。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-436121",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436121"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436121.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1865年；人物可能为瓦尔潘松夫人；已有同年人物铅笔稿。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "先比较花束和人物各占多少空间，再沿女子的目光看向右侧画边。",
+        "托腮的手与桌边形成支点，身体却被画幅截去一部分。",
+        "密集花瓣与桌布上的小花纹相邻，花瓶下方玻璃杯的透明质感更轻。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-12127",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/12127"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-12127.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1883—1884年；非委托肖像；1884年沙龙后重画肩带。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "从头部侧面沿脖颈、肩膀看向手臂，轮廓的变化比面部表情更醒目。",
+        "黑裙并非一片黑，裙褶的反光在胸腰与下摆之间改变方向。",
+        "手指扶住桌边，身体略有转动；细肩带在浅色肩部上格外显眼。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-10154",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/10154"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-10154.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1859年勘测旅行、1863年纽约作；肖肖尼营地与扩张叙事；1830—1902年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "从中央瀑布向远处雪峰看，亮区怎样被山体一层层围住。",
+        "前景的帐篷、人和马提供了尺度，试着从营地向远山重新看一次。",
+        "左右树丛较暗，中央谷地较亮，景观因此像向观众打开一个入口。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-436173",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436173"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436173.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1886—1888年粉彩；未参加1886年展览的原因不确定。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "从抬起的下巴顺着颈部看到肩背，再看弯到腰后的手臂。",
+        "右上方人物只露出躯干与手，梳头动作把两个人联系起来。",
+        "比较白布、肌肤与黄色沙发上的细短线，粉彩靠重叠笔迹塑造表面。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-459110",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/459110"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-459110.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1892年；很可能画室摆姿、想象背景；莫奈曾收藏。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "比较肩部、手臂和膝盖的弧线，它们怎样让坐姿连成一个整体。",
+        "头发与身后的褐绿树影相邻，轮廓在何处清楚、何处变软？",
+        "白色织物集中在腰间与身旁，给暖色皮肤留出几处明亮停顿。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-437394",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437394"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437394.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1653年西西里赞助；亚里士多德、荷马、亚历山大徽章；寓意属馆方提出的解释。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "沿哲学家的右手看到石像头顶，比较皮肤、石头和白色衣袖的质感。",
+        "弧形金链从胸前垂向腰侧，在暗色衣服上留下细碎反光。",
+        "荷马双眼没有瞳孔，人物的目光却向下，二者没有直接相对而视。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-435876",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435876"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435876.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1888—1890年；四幅红裙肖像之一；巴黎安茹河岸公寓室内。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "比较黄色椅背、蓝色墙面和红裙，三块颜色怎样互相支撑。",
+        "从镜框和墙板的直线看向帘幕的弧线，房间没有完全安定在一个方向上。",
+        "脸与双手都由可见色块塑成，皮肤里也有蓝绿和粉红。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-436944",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436944"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436944.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1860年作，1861年沙龙；画室道具、左手姿态与右手装弦不符。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "看男子抱吉他的方向与按弦的手，画中的演奏并不完全合乎真实用法。",
+        "黑衣、白头巾与空阔褐色背景形成集中对比。",
+        "低处的陶罐和蒜头与上方人物相互分开，像被安排在舞台前沿。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-459092",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/459092"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-459092.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1885—1886年布芳庄园附近现场作画；油画薄涂、露底。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "树干像一道疏透屏障，房屋在枝条之间时隐时现。",
+        "比较黄土地、浅绿田野和蓝灰天空，深处空间主要由色区区分。",
+        "找一找没有被颜料完全覆盖的浅色处，它们也在画面中起作用。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-11125",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/11125"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-11125.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1883年回美后作、英国北海渔妇题材；宽幅重叠水彩。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "看裙摆被风吹开的弧形，再看她跨步的方向，身体怎样抵住环境的力量。",
+        "左右各有一条船，中央人物将两侧水面分开。",
+        "脚下水洼的反光与远处白浪相呼应，灰色天空并不只有一种冷暖。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-438821",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438821"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438821.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1891年大溪地；基督教主题、当地人物、婆罗浮屠照片构图。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "在右侧母子头部找金色光环，再看左边黄翼天使的位置。",
+        "两位合掌女子、母子与前景水果分成几层，大块颜色让每层都清楚。",
+        "红色衣裙、深绿地面与紫色道路相邻，空间没有依靠连续明暗展开。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-437344",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437344"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437344.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1891年由里昂壁画改编；哑光油画；馆方明示启发高更/修拉。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "先找左后方高处的吹笛牧羊人，再看前景三人的姿态朝向。",
+        "衣褶、手臂与低垂的头形成缓慢弧线，人物之间没有拥挤的动作。",
+        "淡灰、浅蓝与土色接近，远山和身体的立体阴影都被压得很轻。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-437879",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437879"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437879.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1665—1667年；很可能tronie而非受托肖像；身份未确定。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "看脸颊的亮面如何渐渐过渡到阴影，轮廓边缘并非处处清楚。",
+        "眼中的小亮点与耳边珠饰相呼应，深色背景减少了其他干扰。",
+        "身体转向一侧，头却回看观众，披肩的褶线将这种转动连接起来。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-459086",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/459086"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-459086.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1663—1665年；大理石地面/金皮革墙/侧窗；1629—1684年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "沿几何地砖向右后方门口看，近景和门厅怎样形成两个空间。",
+        "左侧窗光轻轻落在蓝衣女子和桌面上，金色墙饰也只显出局部。",
+        "前景人物的活动较清楚，远处相遇的人却被距离和阴影保留。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-459082",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/459082"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-459082.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1665—1667年；对象为画家及理论家；其理想化观念不同于伦勃朗。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "比较脸和双手的皮肤处理，颜料没有抹去所有不规则之处。",
+        "宽大的黑帽与衣服包住人物，白领和袖口划出柔软边界。",
+        "手中纸张斜向下方，使端坐姿态多了一条通向画外的方向。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-437097",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437097"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437097.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1874年；1868年委托四季组画，间歇七年；1814—1875年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "三座草堆高过前景羊群，比较它们简明轮廓和动物细碎姿态。",
+        "深灰云层与受光的黄色草堆相邻，田地因此有冷暖不同的区域。",
+        "留意羊与草堆边缘的松动线条，局部底色没有被完全盖住。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-10464",
+      "researchBatch": "a",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/10464"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page",
+      "visualAsset": "MuseFrame/Data/SeedData/met-10464.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1892年；地点可能辛纳科克湾；1891—1902年主持户外艺术学校；1849—1916年。"
+      ],
+      "artistFactsVerified": "Artist / nationality / life dates 依官方对象页；个别约略/未定值保留为文字或不填年份。",
+      "directVisualObservations": [
+        "黄色斜伞与红色圆伞一远一近，看看颜色怎样帮助判断距离。",
+        "人物很小，浅色衣裙却与海浪、白云互相呼应。",
+        "地平线偏低，宽阔天空的云与海滩上的小动作有不同速度。"
+      ],
+      "editorialNotes": "原创中文归纳；不把推测身份、画室摆姿或寓意解释改写为确定事实。"
+    },
+    {
+      "artworkID": "met-436839",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436839"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436839.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1640；1593–1652；洛林画家。",
+        "馆方将镜子、头骨和烛光与忏悔主题联系；烛光的精神含义标为可能。"
+      ],
+      "directVisualObservations": [
+        "镜中的烛焰与桌前的火焰互相呼应，试着分清实物和倒影。",
+        "人物的脸转向侧面，浅色衣袖从大片暗部中浮出来。",
+        "膝上的头骨紧挨着双手，视线可以从这里移向烛台与镜框。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "烛火的象征保留“可能”，不把宗教解释当作已知心理活动。"
+      ],
+      "movementRationale": "baroque：沿既有seed并由对象页讨论巴洛克语境支持。"
+    },
+    {
+      "artworkID": "met-435844",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435844"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435844.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1597；1571–1610；意大利。",
+        "官方对象页及音频区分音乐寓意、真实模特和排练动作。"
+      ],
+      "directVisualObservations": [
+        "中央青年一手拨弦，一手扶着鲁特琴颈；他的红披布在浅色衣服之间很醒目。",
+        "右侧背对我们的青年拿着乐谱，裸露的肩背挡住了一部分空间。",
+        "左侧少年身边的葡萄与翅膀提示他不只是普通乐手，而是丘比特。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把群像称为一次真实排练的现场写生。"
+      ],
+      "movementRationale": "baroque：保留既有seed分类；未借此建立具体人物间的影响边。"
+    },
+    {
+      "artworkID": "met-436244",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436244",
+        "https://www.metmuseum.org/essays/albrecht-durer-1471-1528"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436244.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "可能1519；1471–1528；德国。",
+        "日期/签名后添；圣安娜是玛利亚母亲；意大利旅行及文艺复兴身份由官方essay支持。"
+      ],
+      "directVisualObservations": [
+        "圣安娜的手落在女儿肩上，顺着这只手可以看见三个人物如何连成一组。",
+        "比较安娜灰白头巾的细密褶痕，与玛利亚红衣的大块色面。",
+        "睡着的圣婴横在下方，两位成年人物的脸和双手围绕着他。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "story保留“可能”；不把后加的款识当作原始确切落款。"
+      ],
+      "movementRationale": "renaissance：对象元数据与Dürer官方文艺复兴essay。"
+    },
+    {
+      "artworkID": "met-436579",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436579",
+        "https://www.metmuseum.org/essays/jean-baptiste-greuze-1725-1805"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436579.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1756，1757沙龙展出；1725–1805。",
+        "破蛋的性寓意是馆方对当时道德叙事的解释。"
+      ],
+      "directVisualObservations": [
+        "老妇向下指的手，把视线引向前景倾倒的篮子和碎蛋。",
+        "左边女孩坐得很低，身后的青年站着；两人的高度差让身体关系一目了然。",
+        "右下角的孩子摆弄蛋壳，与成人之间的争执形成一个较小的动作场面。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不从室内姿态推断人物真实经历；不因18世纪就归Rococo。"
+      ],
+      "movementRationale": "eighteenth-century-painting：24篇UI验证后采用的策展时代语境组，不声称统一风格；不是洛可可或18世纪新古典主义的替代标签。"
+    },
+    {
+      "artworkID": "met-437329",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437329",
+        "https://www.metmuseum.org/essays/nicolas-poussin-1594-1665"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437329.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "可能1633–34；1594–1665；长期在罗马工作。",
+        "题材是罗马建城传说，不是对事件的历史实录；蜡人舞台是馆方说明的构图方法。"
+      ],
+      "directVisualObservations": [
+        "左上方站在台阶上的罗慕路斯举起披风，这是行动开始的信号。",
+        "前景人物向相反方向扭转，后方建筑的水平线却保持稳定。",
+        "红、蓝、黄衣料散在不同人物之间，可以沿着这些色块追踪几组冲突。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "年代保留约数；不因古代题材而误归18世纪neoclassicism。"
+      ],
+      "movementRationale": "seventeenth-century-classicism：24篇UI验证后采用的策展时代语境组，不声称统一风格；不是洛可可或18世纪新古典主义的替代标签。"
+    },
+    {
+      "artworkID": "met-437053",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437053",
+        "https://www.metmuseum.org/essays/still-life-painting-in-southern-europe-1600-1800"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437053.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1772；1716–1780；西班牙艺术家，生于那不勒斯。",
+        "对象页确认王室静物委托背景、野餐篮和风景的存在。"
+      ],
+      "directVisualObservations": [
+        "中央瓜皮的网纹与切面的湿润光泽，和右边面包粗裂的外壳形成对照。",
+        "葡萄高高堆起，单颗果实的反光在暗叶子前连成一片。",
+        "右侧白布从篮中翻出，左侧风景却向远处展开；近与远在同一张桌面边相遇。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "对象页称44幅委托，较早官方essay称45幅；导览不写总数。",
+        "对象页并未在已读说明中直接称本作为该组委托之一，因此仅写同时期背景。"
+      ],
+      "movementRationale": "eighteenth-century-painting：24篇UI验证后采用的策展时代语境组，不声称统一风格；不是洛可可或18世纪新古典主义的替代标签。"
+    },
+    {
+      "artworkID": "met-436966",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436966"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436966.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1450后不久；生年1430/31，卒1506。",
+        "博尔索·德斯特委托及对尼德兰画风的回应均带推测语气。"
+      ],
+      "directVisualObservations": [
+        "左边约瑟倚着手休息，右边牧羊人弯腰靠近，姿态把视线引向中央的婴儿。",
+        "近处岩石、破木棚和远处道路都有细小纹理，可以比较它们在不同距离上的清晰程度。",
+        "玛利亚的蓝袍边缘与婴儿周围的小天使相接，日常景物中插入了神圣形象。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "birthYear省略，未将1430/31压成单一确切年。",
+        "保留可能的委托人；不为画家编造创作动机。"
+      ],
+      "movementRationale": "renaissance：15世纪意大利绘画的策展归组，不将尼德兰细节兴趣转成具体艺术家影响边。"
+    },
+    {
+      "artworkID": "met-435702",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435702"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435702.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1852–55，1853沙龙展出，1855修改；1822–1899。",
+        "巴黎医院大道马市，一年半每周两次速写；画宽506.7厘米。"
+      ],
+      "directVisualObservations": [
+        "画面中央浅色马匹的背部与侧腹最亮，周围深色马匹让这些体积更突出。",
+        "留意抬起的马腿、回转的头和牵马者的手，它们把整群动物连成流动的节奏。",
+        "高处的树列和远方建筑相对安静，与前景拥挤的马群形成距离。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "没有声称画中马匹属于某一已核实品种；不将画面人物猜作艺术家自画像。"
+      ],
+      "movementRationale": "realism：沿既有seed分类，导览侧重可核对的实地观察。"
+    },
+    {
+      "artworkID": "met-437891",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437891",
+        "https://www.metmuseum.org/essays/paolo-veronese-paolo-caliari-1528-1588"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437891.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1570年代；1528–1588；主要活动于威尼斯。",
+        "1621年前已属鲁道夫二世收藏；两小爱神分别系带和拦马。"
+      ],
+      "directVisualObservations": [
+        "左下小爱神的系带动作，将站立的维纳斯与俯身的战神连在一起。",
+        "右侧战马仍在场，却被另一个小爱神挡住；比较它和两位主角的朝向。",
+        "金色铠甲、紫色绸缎与裸露肌肤，分别用不同的反光表现质地。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "马克西米连二世委托仅为可能。",
+        "官方essay的广义艺术影响不改写成此一作品直接影响某张后来的画。"
+      ],
+      "movementRationale": "renaissance：Veronese官方essay明确威尼斯文艺复兴语境。"
+    },
+    {
+      "artworkID": "met-436002",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436002"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436002.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "1866沙龙；1819–1877；法国。",
+        "官方对象页记录评论分歧及法国政府曾考虑收购。"
+      ],
+      "directVisualObservations": [
+        "散开的棕发延伸到浅色床单上，松散发丝与布褶彼此穿插。",
+        "顺着抬起的手臂向上看，鹦鹉展开的翅膀为横卧身体增加了一个方向。",
+        "床单、肌肤与深色帷幕的反差，使身体的转折和重量格外清楚。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "未将画中女子猜为特定姓名或艺术家亲密关系。"
+      ],
+      "movementRationale": "realism：沿seed并由馆方音频对现实人物/非理想化裸体处理的说明支持。"
+    },
+    {
+      "artworkID": "met-435888",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435888"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435888.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1733–34；1699–1779；法国。",
+        "官方说明区分早期北欧寓意传统与夏尔丹的日常场景，并确认后有同构图版本。"
+      ],
+      "directVisualObservations": [
+        "气泡的轮廓只有一圈很薄的亮色，试着沿边缘辨认它在暗部中的形状。",
+        "青年一只手拿着细管，另一只手搭在台沿，静止的手势放慢了画面的节奏。",
+        "右侧孩子只露出头部，与左侧皂水杯一起，把视线围向中央动作。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把短暂性寓意说成画家唯一确定意图；不把青年和旁观孩子混写成两个儿童。"
+      ],
+      "movementRationale": "eighteenth-century-painting：24篇UI验证后采用的策展时代语境组，不声称统一风格；不是洛可可或18世纪新古典主义的替代标签。"
+    },
+    {
+      "artworkID": "met-438754",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438754"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438754.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "约1290–1300；至迟1278已活动，卒1318。",
+        "原作小幅私人祈祷用途、画框烛烧痕由官方对象页和音频确认。"
+      ],
+      "directVisualObservations": [
+        "圣婴的小手抬起玛利亚的面纱，是整幅画里最亲近的动作。",
+        "比较金底上的刻纹与深色披衣上的细金线：背景和衣服用不同方式接住光。",
+        "下方有花纹的矮墙位于人物与观者之间，像一个可被感知的画面门槛。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "birthYear省略；“至迟1278已活动”不是出生年。",
+        "未将颜料老化造成的肤色当作原始意图，也未将神学预示当作可知人物心理。"
+      ],
+      "movementRationale": "early-italian：13世纪末锡耶纳的年代/地域策展组，不宣称馆方使用这一同名movement标签。"
+    },
+    {
+      "artworkID": "met-437490",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437490"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437490.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Annunciation；ca. 1465–70；Hans Memling。",
+        "画面约作于1465至1470年。馆方认为它很可能由费里·德·克吕尼订制；地毯和彩窗的双钥匙纹章提供了线索。构图与罗希尔·范德魏登的设计有关。"
+      ],
+      "directVisualObservations": [
+        "天使的金色纹样祭衣与玛利亚的大块蓝袍，一繁一简。",
+        "地砖和窗框把视线向深处引，窗外又露出庭院与远处建筑。",
+        "前方白百合与彩窗上的徽记很小，却与房间中的大人物共同参与叙事。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "委托人与早期用途保留“很可能”；不把技术研究提示的工作室经历写成确定师徒合同。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-436918",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436918"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436918.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Venus and Cupid；1520s；Lorenzo Lotto。",
+        "洛托在1520年代画下此作。维纳斯的装束含有16世纪威尼斯新娘常见的饰物，因此它可能是一件婚礼纪念画；人物是否就是新娘肖像，仍是推测。"
+      ],
+      "directVisualObservations": [
+        "维纳斯头上的冠饰、面纱和珍珠耳坠，与她裸露的身体形成反差。",
+        "丘比特从花环中撒尿；馆方把这个古怪动作解释为生育的象征。",
+        "蓝色铺布横贯下缘，后方红帘沿弧线展开，给身体搭起一个近景舞台。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "婚礼用途及新娘身份均未写成确定事实；画家约1480年生，不强填单年。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-436504",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436504"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436504.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Adoration of the Magi；possibly ca. 1320；Giotto di Bondone。",
+        "这幅可能约作于1320年的木板画，原属一组七幅基督生平叙事。乔托借稳定的人体形状和相互回应的动作，让圣经故事更贴近人的经验。"
+      ],
+      "directVisualObservations": [
+        "红衣国王跪在最前面，双手托住婴儿，而王冠被放在地上。",
+        "木棚从略低的视角被看见，几根柱子把人物聚拢在同一空间里。",
+        "金色背景没有自然天空，却与沉重衣褶和人物的转身并存。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "年代保留“可能约”；乔托生年1266/76未压成确切年。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：early-italian"
+    },
+    {
+      "artworkID": "met-436838",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436838"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436838.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Fortune-Teller；probably 1630s；Georges de La Tour。",
+        "画面可能作于1630年代。青年向老妇付钱算命，旁边人物趁机行窃。这一题材当时在北欧和罗马都很流行；馆方并未据此认定拉图尔一定直接依照卡拉瓦乔创作。"
+      ],
+      "directVisualObservations": [
+        "青年伸掌面对老妇；他的注意力与画面下方的动作并不重合。",
+        "沿着左右人物的手寻找钱袋与链子，偷窃就在衣服交接处发生。",
+        "比较刺绣、丝带与头巾的纹理，平直背景让这些表面格外清楚。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把虚构的行窃场面当作对某一族群生活的实录；不据题材相同建立直接影响边。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：baroque"
+    },
+    {
+      "artworkID": "met-435839",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435839"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435839.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Piazza San Marco；late 1720s；Canaletto (Giovanni Antonio Canal)。",
+        "卡纳莱托于1720年代末描绘威尼斯的圣马可广场。铺地施工的状态帮助馆方判断年代；他也调整了钟楼窗户数量和旗杆高度，因此这不是毫无改动的实景记录。"
+      ],
+      "directVisualObservations": [
+        "两侧建筑的长线向圣马可大教堂收拢，地面的铺装线也参与了这一方向。",
+        "钟楼把画面竖直切开，周围的小人物为广场提供尺度。",
+        "左侧遮棚和右侧阴影不同，沿光与暗的交界可以辨认空间深浅。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "策展时代语境，非统一风格：eighteenth-century-painting"
+    },
+    {
+      "artworkID": "met-436575",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436575"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436575.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "View of Toledo；ca. 1599–1600；El Greco (Domenikos Theotokopoulos)。",
+        "埃尔·格列柯约在1599至1600年描绘自己长期居住的托莱多。他改动了天际线，尤其移动了大教堂的位置，让城市成为经过组织的视觉表达，而不只是地形记录。"
+      ],
+      "directVisualObservations": [
+        "最亮的建筑沿山坡聚成一团，周围天空和树木却压得很暗。",
+        "河流、桥与道路在下方转折，把视线引向高处城市。",
+        "云层像大块移动的形状；地面亮绿与冷白建筑也有类似的断续边缘。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把阴云解释为某次已知天气或画家的特定心理状态。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：mannerism"
+    },
+    {
+      "artworkID": "met-436896",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436896"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436896.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Portrait of a Woman with a Man at a Casement；ca. 1440；Fra Filippo Lippi。",
+        "作品约作于1440年。女子袖上有表示忠贞的字样，男子持有斯科拉里家徽；这些线索使馆方提出两人可能是约1436年结婚的一对夫妇，但身份并未完全确定。"
+      ],
+      "directVisualObservations": [
+        "女子的鼻梁、额头与头饰构成清楚的侧面轮廓，男子只从左侧窗口露出脸。",
+        "她袖子上的金色字母与珠饰让服装承担了身份信息。",
+        "人物身后另一扇窗打开了小小的远景，与前方封闭的室内形成对照。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把可能的夫妇身份写成已证实；利皮约1406年生，省略birthYear。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-438820",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438820"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438820.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Young Ladies of the Village；1851–52；Gustave Courbet。",
+        "库尔贝在1851至1852年画下自己的三位姐妹，她们在奥尔南附近散步，一人向牧童施舍。作品1852年沙龙展出时，人物、动物的比例与服饰都受到批评。"
+      ],
+      "directVisualObservations": [
+        "三位衣着整齐的女子与左侧牧童靠近，其中一只伸出的手连接了两组人物。",
+        "狗与牛占据自己的位置，没有围绕人物整齐排成一队。",
+        "后方岩壁与草坡分成大片色面，遮住了通常会延伸很远的风景。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：realism"
+    },
+    {
+      "artworkID": "met-436095",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436095"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436095.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Third-Class Carriage；1864；Honoré Daumier。",
+        "杜米埃于1864年重新处理三等铁路乘客的题材。这件油画未完成，并留有用于转绘的方格；它与同年的水彩及另一幅完成的油画有密切关系。"
+      ],
+      "directVisualObservations": [
+        "前排母亲怀抱婴儿，老妇握着篮子提手，男孩低头睡着，三个姿态彼此不同。",
+        "后排帽子、头部与肩膀叠在一起，形成比前排更密的暗色带。",
+        "车窗只露出几块亮面，光却一路落到老妇的脸和双手。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "明确未完成，不能把所有可见粗略痕迹都当作最后定稿的有意效果。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：realism"
+    },
+    {
+      "artworkID": "met-435641",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435641"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435641.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Madonna and Child；late 1480s；Giovanni Bellini。",
+        "贝利尼于1480年代末画下此作。原本作为尊贵背景的帷布被拉向一侧，露出晨空与远景；馆方将景物由枯到荣的变化，与死亡和重生的宗教含义联系起来。"
+      ],
+      "directVisualObservations": [
+        "玛利亚朝画外看，婴儿则抬头望向她，两道视线走向不同。",
+        "左侧露出的风景很窄，红帷幕与深蓝披衣却占据了大部分画面。",
+        "下方石栏像一道门槛，让人物与观者既有距离，又处在相近高度。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "贝利尼生年1424/26不确定，省略单年；宗教含义标为馆方解释。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-438814",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438814"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438814.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Abduction of Rebecca；1846；Eugène Delacroix。",
+        "德拉克洛瓦在1846年根据司各特的小说《艾凡赫》取材：骑士博瓦-吉尔贝命人从起火的城堡带走丽贝卡。场景来自文学叙事，并非对一件历史事件的纪实。"
+      ],
+      "directVisualObservations": [
+        "丽贝卡浅色的颈肩和垂下的手臂，是暗色群体中的亮点。",
+        "马的后腿、人物扭转的腰与伸出的手互相交错，动作难以分开。",
+        "远处燃烧的城堡被压缩在背景里，危险似乎紧挨着前景。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：romanticism"
+    },
+    {
+      "artworkID": "met-437609",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437609"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437609.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Holy Family with the Young Saint John the Baptist；ca. 1528；Andrea del Sarto (Andrea d'Agnolo)。",
+        "这幅约1528年的画由乔瓦尼·博尔盖里尼订制，背景是佛罗伦萨暂时摆脱美第奇统治的共和国时期。馆方将城市主保圣人约翰交出球体的动作，解释为宣示基督而非美第奇拥有最高统治权。"
+      ],
+      "directVisualObservations": [
+        "圣约翰把球体递向圣婴，几只手沿它的边缘连成连续动作。",
+        "约瑟的脸从后方阴影里露出，和前方明亮的母子拉开层次。",
+        "红、蓝衣料在下方交叠，抬起的婴儿双腿又把动作带回前面。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-435962",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435962"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435962.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Hagar in the Wilderness；1835；Camille Corot。",
+        "柯罗在1835年借法国乡间的部分自然习作，组织《圣经》中夏甲与以实玛利被逐入旷野的故事。风景经过创作安排，并非对故事发生地的现场记录。"
+      ],
+      "directVisualObservations": [
+        "母子位于下方阴影里，人物很小，岩石和树丛却占了大半画面。",
+        "明亮高地与近处暗石交替，视线先绕过障碍，再到远处平原。",
+        "树梢上方的小天使与下方夏甲抬起的手遥相呼应。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把这件圣经题材风景强填为浪漫或现实主义；艺术家关联不依赖每幅画都被单一流派包住。"
+      ],
+      "movementRationale": "保持未归类，不强填。"
+    },
+    {
+      "artworkID": "met-435908",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435908"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435908.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Trojan Women Setting Fire to Their Fleet；ca. 1643；Claude Lorrain (Claude Gellée)。",
+        "这幅约1643年的画取自埃涅阿斯故事：长期流亡后的特洛伊妇女试图烧船，朱庇特将降雨灭火。作品由法尔内塞枢机订制；克洛德用古典故事组织风景与光线。"
+      ],
+      "directVisualObservations": [
+        "人物只占画幅下方一小条，桅杆和船索把视线一直带到云层。",
+        "海面由近处深色转向远处亮色，船只也随距离逐渐缩小。",
+        "前景岸边的动作与远方乌云相连，可以比较叙事和天气各占多少空间。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "17世纪古典取向是策展语境组，不是统一技法或18世纪neoclassicism；生年1604/5?未强填。"
+      ],
+      "movementRationale": "策展时代语境，非统一风格：seventeenth-century-classicism"
+    },
+    {
+      "artworkID": "met-437153",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437153",
+        "https://www.metmuseum.org/essays/symbolism"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437153.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Oedipus and the Sphinx；1864；Gustave Moreau。",
+        "莫罗以此作参加1864年沙龙。希腊传说中，斯芬克斯以人生阶段为谜，答错者会丧命；画家把这一故事集中在双方对峙的瞬间，而没有展开完整情节。"
+      ],
+      "directVisualObservations": [
+        "斯芬克斯的爪子贴住俄狄浦斯身体，两个头部在狭窄空隙中相对。",
+        "长矛、陡壁与展开的翅膀都向上延伸，使竖画幅显得更窄。",
+        "画面下缘的遗骸提醒我们，谜题带有生死后果。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "1864早于1886象征主义宣言；归入艺术谱系不代表参与一个当时已成立的组织。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：symbolism"
+    },
+    {
+      "artworkID": "met-438112",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438112"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438112.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Queen Henrietta Maria；1636；Anthony van Dyck。",
+        "凡·戴克于1636年画下当时怀孕的英国王后。她把作品作为礼物赠给罗马的巴贝里尼枢机，肖像也因此参与了当时宫廷与宗教外交。"
+      ],
+      "directVisualObservations": [
+        "王后的双手交叠在腹前，珍珠项链与领口又组成另一道弧线。",
+        "金色袖子上的大折面，与白色花边的小纹理形成对照。",
+        "左边桌上的王冠没有占据中心，却与人物的高度和位置相互配合。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：baroque"
+    },
+    {
+      "artworkID": "met-437532",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437532"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437532.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Rubens, Helena Fourment (1614–1673), and Their Son Frans (1633–1678)；ca. 1635；Peter Paul Rubens。",
+        "鲁本斯约于1635年把自己、第二任妻子海伦娜与儿子画在理想化的安特卫普宅邸花园里。父亲身上可佩剑的斜带显示贵族身份，孩子的丝带则以相似形状呼应。"
+      ],
+      "directVisualObservations": [
+        "比较夫妻握在一起的双手，肤色与表面处理并不相同。",
+        "孩子胸前的蓝带呼应父亲身上的斜带，也把最下方的人物接入构图。",
+        "深色衣料几乎占满前景，右上花枝和鹦鹉则带入较亮的小色块。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：baroque"
+    },
+    {
+      "artworkID": "met-436105",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436105",
+        "https://www.metmuseum.org/essays/the-legacy-of-jacques-louis-david-1748-1825"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436105.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Death of Socrates；1787；Jacques Louis David。",
+        "大卫于1787年处理苏格拉底服毒前的古典故事。床尾的柏拉图不是当日现场的记录，而是保存这一叙事的作者形象；画家也向古物学者咨询衣物和家具细节。"
+      ],
+      "directVisualObservations": [
+        "一只手接向毒酒，另一只手向上指，两个方向在明亮身体上相交。",
+        "红衣递杯者转开脸，周围人的弯腰与捂面使主角显得更挺直。",
+        "石墙、床沿和台阶形成水平秩序，散落的锁链则把目光带回囚室。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：neoclassicism"
+    },
+    {
+      "artworkID": "met-436106",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436106",
+        "https://www.metmuseum.org/essays/the-legacy-of-jacques-louis-david-1748-1825"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436106.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Antoine Laurent Lavoisier (1743–1794) and Marie Anne Lavoisier (Marie Anne Pierrette Paulze, 1758–1836)；1788；Jacques Louis David。",
+        "这幅1788年的肖像呈现拉瓦锡与妻子玛丽-安娜。她为实验作记录，也为丈夫的出版物制作蚀刻插图。技术研究显示，画面早先并不包含这些科学仪器，形象在创作过程中改变过。"
+      ],
+      "directVisualObservations": [
+        "玛丽-安娜把手搭在丈夫肩上，他抬头看她，视线构成两人的联系。",
+        "桌上的直立仪器与地上的玻璃球体，分别用细线和反光呈现透明。",
+        "红桌布形成最大的暖色面，与她层层展开的白裙互相平衡。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把这幅摆设性肖像当作实验现场实录。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：neoclassicism"
+    },
+    {
+      "artworkID": "met-437826",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437826"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437826.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Venus and Adonis；1550s；Titian (Tiziano Vecellio)。",
+        "提香在1550年代取材于奥维德《变形记》。维纳斯试图阻止恋人外出狩猎，因为他将遭遇死亡。作坊留下多个构图版本，馆方认为本件由提香本人完成。"
+      ],
+      "directVisualObservations": [
+        "维纳斯背向观者，双臂抱住阿多尼斯，背部亮面与他向前跨的腿形成交叉。",
+        "猎犬的朝向继续把动作带向右方，和挽留的手臂相反。",
+        "左后方的小爱神缩在暗处，与前景伸展的人体形成对照。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "提香生年约1485/90?，省略birthYear；不把作坊其他版本与本件混同。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-436323",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436323",
+        "https://www.metmuseum.org/essays/jean-honore-fragonard"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436323.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Marie Emilie Coignet de Courson (1716–1806) with a Dog；ca. 1769；Jean Honoré Fragonard。",
+        "这幅约1769年的“幻想肖像”借用了比画家早一个世纪的戏剧性服装。新发现的素描帮助馆方确认人物为贵族沙龙主人玛丽·埃米莉·科涅·德·库尔松。"
+      ],
+      "directVisualObservations": [
+        "白色高领用短促亮笔触向外伸出，与后方灰色空间形成反差。",
+        "紫红与黄色衣袖的斜褶不断换方向，近看时衣料几乎分解成色笔。",
+        "小狗的脸朝向主人，蓝色丝带则垂落到画面下部。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不再沿用旧称“无名女子”；笔触的速度感不是一次完成的可证实计时。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：rococo"
+    },
+    {
+      "artworkID": "met-436840",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436840"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436840.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Self-Portrait with Two Pupils, Marie Gabrielle Capet (1761–1818) and Marie Marguerite Carraux de Rosemond (1765–1788)；1785；Adélaïde Labille-Guiard。",
+        "拉比耶-吉亚尔于1785年展出这幅自画像。她两年前进入法国皇家学院时，女性会员名额被限制为四位；画中两位学生的出现，也常被理解为对女性艺术教育的倡议。"
+      ],
+      "directVisualObservations": [
+        "巨大的画布背面挡在左边，把真正正在画的内容藏了起来。",
+        "调色板、画笔与撑手杖集中在画家手中，职业身份十分清楚。",
+        "浅蓝裙面的强反光与后方两位学生较暗的衣服，把三个人分成前后层次。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "倡议的含义保留“常被理解为”，不假造画家亲口陈述的意图。"
+      ],
+      "movementRationale": "策展时代语境，非统一风格：eighteenth-century-painting"
+    },
+    {
+      "artworkID": "met-436545",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436545"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436545.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Manuel Osorio Manrique de Zuñiga (1784–1792)；1787–88；Goya (Francisco de Goya y Lucientes)。",
+        "戈雅在1787至1788年为阿尔塔米拉伯爵夫妇的儿子作画。孩子与宠物同处一景；动物可能带有关于童年脆弱性的寓意，但这种解释并未被当作唯一确定意图。"
+      ],
+      "directVisualObservations": [
+        "三只猫的眼睛朝向前方喜鹊，与男孩平静的站姿形成反差。",
+        "喜鹊喙中的纸片写有画家的名片与签名，名字被放进了画中行动。",
+        "右侧鸟笼、左侧猫群和中央红衣，把下方空间分成三个部分。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "没有将男孩后来早逝说成画家事先知道或有意预言的事实。"
+      ],
+      "movementRationale": "策展时代语境，非统一风格：eighteenth-century-painting"
+    },
+    {
+      "artworkID": "met-435728",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435728"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435728.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Last Communion of Saint Jerome；early 1490s；Botticelli (Alessandro di Mariano Filipepi)。",
+        "波提切利于1490年代初为佛罗伦萨羊毛商弗朗切斯科·德尔·普列塞绘制此画。它表现将《圣经》译为拉丁文的哲罗姆，在伯利恒附近住处接受临终圣餐。"
+      ],
+      "directVisualObservations": [
+        "哲罗姆跪在右侧，背后修士扶住他，身体的重量由几个人共同承托。",
+        "神父前倾递出圣餐，粉色祭衣斜贯狭窄房间。",
+        "两侧窗中的蓝色与层层木梁，把室内场景围成安静而清楚的空间。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不将另位画家绘制的画框半圆画归为波提切利；生年1444/45未强填。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-436573",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436573"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436573.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Cardinal Fernando Niño de Guevara (1541–1609)；ca. 1600；El Greco (Domenikos Theotokopoulos)。",
+        "格列柯可能在1600年春、枢机随王室到访托莱多时作画。格瓦拉当时担任西班牙宗教裁判所总裁判官，后来转任塞维利亚总主教。"
+      ],
+      "directVisualObservations": [
+        "比较两只手的姿势：一只自然下垂，另一只手指弯曲扣住扶手。",
+        "衣袍下摆形成尖锐折角，蕾丝和椅背纹样却细密而繁复。",
+        "眼镜、白胡须与直视的眼睛集中在很小的范围里，与宽阔衣袍对照。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "具体作画季节保留可能；不据目光或手势判定真实人格。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：mannerism"
+    },
+    {
+      "artworkID": "met-438818",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438818",
+        "https://www.metmuseum.org/essays/the-legacy-of-jacques-louis-david-1748-1825"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438818.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Joseph-Antoine Moltedo (born 1775)；ca. 1810；Jean Auguste Dominique Ingres。",
+        "安格尔约在1810年描绘当时的罗马邮政主管莫尔泰多。这是他在拿破仑时代罗马为法国官员作的一组肖像之一，背景纳入阿庇亚大道与斗兽场。"
+      ],
+      "directVisualObservations": [
+        "脸部轮廓、白色领巾和深色翻领边缘都很清楚，形成层层框线。",
+        "人物直视画外，后方灰云则向两侧翻动。",
+        "头肩之间露出的远处古迹，把大半身肖像接到更广阔的城市背景。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：neoclassicism"
+    },
+    {
+      "artworkID": "met-436658",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436658"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436658.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Hermann von Wedigh III (died 1560)；1532；Hans Holbein the Younger。",
+        "小荷尔拜因于1532年描绘这位出自科隆显赫家族的人物。书中的纸片引述古罗马剧作家泰伦提乌斯关于奉承与真话的警句，名字、年龄与文字参与了肖像表达。"
+      ],
+      "directVisualObservations": [
+        "背景金色字母横穿蓝色平面，衣服则几乎全由不同深浅的黑组成。",
+        "左下书本伸出一张纸，书页、封面和纸片上出现了不同形式的文字。",
+        "胳膊压在绿色台面上，黑袖褶痕因亮边而显出重量。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "荷尔拜因生年1497/98不确定，省略单年。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：renaissance"
+    },
+    {
+      "artworkID": "met-437869",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/437869"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-437869.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Juan de Pareja (ca. 1608–1670)；1650；Velázquez (Diego Rodríguez de Silva y Velázquez)。",
+        "1650年在罗马作此肖像时，帕雷哈仍被委拉斯开兹奴役。他随后获得日后脱离奴役的文书，并在马德里发展了自己的绘画事业。这段经历是理解人物身份不可略去的背景。"
+      ],
+      "directVisualObservations": [
+        "蕾丝衣领的白色边缘有些地方清楚、有些地方松散，和暗衣混在一起。",
+        "肩膀稍向一侧转，头部却转回画外，形成细微的身体错位。",
+        "前方握住衣料的手与最亮的面孔互相呼应，背景没有多余物件。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不称为普通自由助手；不把画成肖像等同于立即获得自由。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：baroque"
+    },
+    {
+      "artworkID": "met-436622",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/436622"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-436622.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Merrymakers at Shrovetide；ca. 1616–17；Frans Hals。",
+        "哈尔斯约在1616至1617年描绘四旬斋前的庆典。画中有当时行会戏剧的固定角色；中央盛装人物可能由男演员扮演，食物也带有节庆和双关含义。"
+      ],
+      "directVisualObservations": [
+        "中央人物的大块白花边与红衣最亮，周围笑脸从暗处一层层探出。",
+        "左侧人物身上挂着鱼与蛋，食物不只出现在前方桌上。",
+        "手指、酒器与散放的餐点交错，形成拥挤而向前推的近景。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "中央人物身份保留可能；不把戏剧人物当作已知真实模特；生年1582/83未强填。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：baroque"
+    },
+    {
+      "artworkID": "met-435743",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435743",
+        "https://www.metmuseum.org/essays/franois-boucher-1703-1770"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435743.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Dispatch of the Messenger；1765；François Boucher。",
+        "布歇在1765年沙龙把此画与另外三幅一起展出，组成送信、收信、读信和恋人相会的故事。它表现的是理想化的田园恋爱，而非对牧羊生活的直接记录。"
+      ],
+      "directVisualObservations": [
+        "女子低头靠近白鸽，伸出的另一只手把动作引向前方。",
+        "树干与枝叶沿椭圆边缘围合，中央蓝天像为人物打开的一扇窗。",
+        "羊、狗与篮子围在下方，精致衣服却使场景更像田园舞台。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：rococo"
+    },
+    {
+      "artworkID": "met-438009",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/438009"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-438009.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "The Pink Dress (Albertie-Marguerite Carré, later Madame Ferdinand-Henri Himmes, 1854–1935)；ca. 1870；Berthe Morisot。",
+        "莫里索约在1870年为玛格丽特·卡雷作此肖像。目击者布朗什记录过创作过程，也提到画家多次修改；轻快的表面并不意味着一次就画完。"
+      ],
+      "directVisualObservations": [
+        "裙上的褶边用浅粉、白与稍深的粉色叠出，没有逐条勾完轮廓。",
+        "两只手分别落在裙面与靠垫上，姿势使坐像舒展地占据画幅。",
+        "左上花盆与花枝由松散色点组成，和人物较集中的面部形成对比。"
+      ],
+      "uncertaintiesAndEditorialLimits": [],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：impressionism"
+    },
+    {
+      "artworkID": "met-435683",
+      "researchBatch": "b",
+      "reviewedAt": "2026-10-30",
+      "sourceRefs": [
+        "https://www.metmuseum.org/art/collection/search/435683",
+        "https://www.metmuseum.org/essays/symbolism"
+      ],
+      "officialObjectPageOpened": true,
+      "sourceKind": "museum-object-page-and-referenced-essays",
+      "visualAsset": "MuseFrame/Data/SeedData/met-435683.jpg",
+      "visualAssetViewed": true,
+      "verifiedFacts": [
+        "Island of the Dead；1880；Arnold Böcklin。",
+        "勃克林1880年应玛丽·贝尔纳之请，为纪念她去世的丈夫作画。依她的要求，小舟加入棺木和裹白布的人形；画家后来还创作了数幅稍有差异的版本。"
+      ],
+      "directVisualObservations": [
+        "白色身影和棺木集中在小舟上，它们很小，却是暗色水面上的亮点。",
+        "高耸树群堵住岛的中央，岩石两侧几何般的开口使景色像建筑。",
+        "水平水面几乎不动，陡直石壁与树木因此显得更高。"
+      ],
+      "uncertaintiesAndEditorialLimits": [
+        "不把某一真实岛屿原型或每件物件的象征含义写成定论；1880早于1886宣言。"
+      ],
+      "movementRationale": "依现有metadata及官方资料作艺术史归组：symbolism"
+    }
+  ],
+  "movementResearch": {
+    "accessedAt": "2026-10-30",
+    "allListedSourceRefsActuallyOpened": true,
+    "scopeYearsAreEditorialApproximation": true,
+    "records": [
+      {
+        "id": "early-italian",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/italian-painting-of-the-later-middle-ages",
+          "https://www.metmuseum.org/art/collection/search/438754"
+        ],
+        "categoryKind": "context",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "renaissance",
+        "primaryURLs": [
+          "https://www.metmuseum.org/toah/ht/08/eustc.html",
+          "https://www.metmuseum.org/essays/albrecht-durer-1471-1528",
+          "https://www.metmuseum.org/art/collection/search/436244"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "mannerism",
+        "primaryURLs": [
+          "https://www.rijksmuseum.nl/en/collection/node/Mannerism--e243010cbf434008948ef819314a3da1",
+          "https://www.metmuseum.org/art/collection/search/436575"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "baroque",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/annibale-carracci-1560-1609",
+          "https://www.metmuseum.org/art/collection/search/435844",
+          "https://www.metmuseum.org/art/collection/search/437881"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "seventeenth-century-classicism",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/nicolas-poussin-1594-1665",
+          "https://www.metmuseum.org/art/collection/search/437329"
+        ],
+        "categoryKind": "context",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "japanese-painting",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/art-of-the-edo-period-1615-1868",
+          "https://www.metmuseum.org/art/collection/search/39799"
+        ],
+        "categoryKind": "context",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "eighteenth-century-painting",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/jean-baptiste-greuze-1725-1805",
+          "https://www.metmuseum.org/art/collection/search/435888",
+          "https://www.metmuseum.org/art/collection/search/437053"
+        ],
+        "categoryKind": "context",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "rococo",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/franois-boucher-1703-1770",
+          "https://www.wallacecollection.org/explore/explore-in-depth/bouchers-paintings/yukhnovich-and-boucher/re-viewing-the-rococo/",
+          "https://www.metmuseum.org/art/collection/search/435743"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "neoclassicism",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/neoclassicism",
+          "https://www.metmuseum.org/art/collection/search/436105"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "romanticism",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/romanticism",
+          "https://www.metmuseum.org/art/collection/search/437854",
+          "https://www.metmuseum.org/art/collection/search/10497"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "realism",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/nineteenth-century-french-realism",
+          "https://www.metmuseum.org/art/collection/search/435702"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "impressionism",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/impressionism-art-and-modernity",
+          "https://www.metmuseum.org/art/collection/search/438817",
+          "https://www.metmuseum.org/art/collection/search/437430"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "post-impressionism",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/post-impressionism",
+          "https://www.metmuseum.org/art/collection/search/435882",
+          "https://www.metmuseum.org/art/collection/search/437658",
+          "https://www.metmuseum.org/art/collection/search/436535"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "symbolism",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/symbolism",
+          "https://www.metmuseum.org/art/collection/search/437344"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "naive-art",
+        "primaryURLs": [
+          "https://www.setagayaartmuseum.or.jp/en/about/collection/naive_art/",
+          "https://www.metmuseum.org/art/collection/search/438822"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      },
+      {
+        "id": "art-nouveau",
+        "primaryURLs": [
+          "https://www.metmuseum.org/essays/art-nouveau",
+          "https://www.metmuseum.org/art/collection/search/436819"
+        ],
+        "categoryKind": "movement",
+        "dateNote": "startYear/endYear用于本应用时间画布定位，不能作艺术史统一起止的断言。"
+      }
+    ]
+  },
+  "artistRelationshipResearch": {
+    "reviewedAt": "2026-10-30",
+    "sourcePagesOpened": true,
+    "records": [
+      {
+        "id": "rubens-van-dyck-teacher",
+        "fromArtistID": "met-artist-162350",
+        "toArtistID": "met-artist-161858",
+        "kind": "teacherStudent",
+        "evidenceSummaryZh": "范·戴克曾是鲁本斯的学生和助手，并在1618至1620年间参与他的多项委托。这里记录师生与工作室关系，不推定所选两幅画之间有直接借鉴。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/essays/peter-paul-rubens-1577-1640-and-anthony-van-dyck-1599-1641-works-on-paper"
+        ],
+        "researchBatch": "a",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "millet-van-gogh-influence",
+        "fromArtistID": "met-artist-164909",
+        "toArtistID": "met-artist-161947",
+        "kind": "influence",
+        "evidenceSummaryZh": "梵高长期关注米勒的农民题材，并以《最初的脚步，仿米勒》等作品向他致意。这是经由作品形成的影响关系；两人并非师生。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/essays/post-impressionism"
+        ],
+        "researchBatch": "a",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "gauguin-van-gogh-arles",
+        "fromArtistID": "met-artist-161924",
+        "toArtistID": "met-artist-161947",
+        "kind": "crossedPaths",
+        "evidenceSummaryZh": "高更与梵高在1888年曾短暂共同工作于法国南部的阿尔勒。此处用“相遇”标记这一交集，保留他们不同的绘画道路。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/essays/post-impressionism"
+        ],
+        "researchBatch": "a",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "manet-morisot-exchange",
+        "fromArtistID": "met-artist-162094",
+        "toArtistID": "met-artist-162143",
+        "kind": "crossedPaths",
+        "evidenceSummaryZh": "马奈与莫里索约在1868年相识，此后保持密切的艺术交流。博物馆展览研究强调了双方的相互影响，关系不以“男画家与缪斯”概括。",
+        "sourceRefs": [
+          "https://www.clevelandart.org/about/press/impressions-friendship-new-exhibition-explores-creative-exchange-between-artists",
+          "https://www.metmuseum.org/exhibitions/manet-degas/visiting-guide"
+        ],
+        "researchBatch": "a",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "corot-morisot-influence",
+        "fromArtistID": "met-artist-161787",
+        "toArtistID": "met-artist-162143",
+        "kind": "influence",
+        "evidenceSummaryZh": "莫里索姐妹经老师阿希尔·乌迪诺结识柯罗。博物馆人物条目明确指出柯罗对她们的影响；这里不把这段关系扩写为正式学徒年限。",
+        "sourceRefs": [
+          "https://www.museothyssen.org/en/collection/artists/morisot-berthe"
+        ],
+        "researchBatch": "a",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "puvis-seurat-influence",
+        "fromArtistID": "met-artist-162280",
+        "toArtistID": "met-artist-162405",
+        "kind": "influence",
+        "evidenceSummaryZh": "夏凡纳的绘画为寻求印象派之外道路的年轻画家提供启发，馆方明确提及修拉。此关系指向艺术家的总体影响，不宣称《牧羊人的歌》直接导致某一幅修拉作品。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/art/collection/search/437344"
+        ],
+        "researchBatch": "a",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "titian-influenced-poussin",
+        "fromArtistID": "met-artist-162552",
+        "toArtistID": "met-artist-162270",
+        "kind": "influence",
+        "evidenceSummaryZh": "普桑早期作品吸收了提香绘画的色彩与构图经验。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/essays/nicolas-poussin-1594-1665"
+        ],
+        "researchBatch": "b",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "veronese-influenced-rubens",
+        "fromArtistID": "met-artist-162636",
+        "toArtistID": "met-artist-162350",
+        "kind": "influence",
+        "evidenceSummaryZh": "鲁本斯研究过委罗内塞的绘画，其影响见于后来的创作；此边表达艺术实践的联系。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/essays/paolo-veronese-paolo-caliari-1528-1588"
+        ],
+        "researchBatch": "b",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "boucher-taught-fragonard",
+        "fromArtistID": "met-artist-161703",
+        "toArtistID": "met-artist-165555",
+        "kind": "teacherStudent",
+        "evidenceSummaryZh": "弗拉戈纳尔早期曾在布歇工作室学习。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/essays/jean-honore-fragonard"
+        ],
+        "researchBatch": "b",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "id": "david-taught-ingres",
+        "fromArtistID": "met-artist-161811",
+        "toArtistID": "met-artist-162005",
+        "kind": "teacherStudent",
+        "evidenceSummaryZh": "安格尔是大卫工作室培养的画家之一，继承并发展了其新古典主义训练。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/essays/the-legacy-of-jacques-louis-david-1748-1825"
+        ],
+        "researchBatch": "b",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "documented"
+      },
+      {
+        "fromArtistID": "met-artist-161823",
+        "toArtistID": "met-artist-161695",
+        "kind": "influence",
+        "evidenceSummaryZh": "馆方将德拉克洛瓦列为博纳尔构思《马市》时的参考之一。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/art/collection/search/435702"
+        ],
+        "researchBatch": "b",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "candidate",
+        "editorialLimit": "仅为有来源的关系候选；不推定任何具体作品之间的直接因果，不代表产品已发布此边。"
+      },
+      {
+        "fromArtistID": "met-artist-162350",
+        "toArtistID": "met-artist-165555",
+        "kind": "influence",
+        "evidenceSummaryZh": "弗拉戈纳尔本幅服装借鉴他在法国王室收藏中见过的鲁本斯玛丽·美第奇系列；限于已核实的服饰参照，不扩写成一般师生关系。",
+        "sourceRefs": [
+          "https://www.metmuseum.org/art/collection/search/436323"
+        ],
+        "researchBatch": "b",
+        "reviewedAt": "2026-10-30",
+        "sourcePagesOpened": true,
+        "researchStatus": "candidate",
+        "editorialLimit": "仅为有来源的关系候选；不推定任何具体作品之间的直接因果，不代表产品已发布此边。"
+      }
+    ]
+  },
+  "additionalArtistSources": [
+    {
+      "artistID": "met-artist-162257",
+      "primaryURLs": [
+        "https://www.metmuseum.org/essays/impressionism-art-and-modernity"
+      ],
+      "pageOpened": true,
+      "verifiedFact": "毕沙罗是唯一参加全部八次群展的画家。"
+    },
+    {
+      "artistID": "met-artist-165114",
+      "primaryURLs": [
+        "https://www.setagayaartmuseum.or.jp/en/about/collection/naive_art/"
+      ],
+      "pageOpened": true,
+      "verifiedFact": "自学、巴黎入市税征收员，避免将职务误说为在边境海关工作。"
+    }
+  ],
+  "finalReview": {
+    "reviewedAt": "2026-10-30",
+    "officialPagesOpened": [
+      "https://www.metmuseum.org/essays/edouard-manet-1832-1883",
+      "https://www.metmuseum.org/essays/american-impressionism",
+      "https://www.metmuseum.org/art/collection/search/435962"
+    ],
+    "decisionsZh": [
+      "保留马奈“密切交往”的传记表述，不改为群展成员。",
+      "保留Generalife的1912年；流派说明补充相关探索延续至20世纪初。",
+      "Hagar仅按1835年进入19世纪语境，未作单一流派归属判断。",
+      "音乐家观察用“鲁特琴”，避免误读为中国乐器。",
+      "死之岛的意义改为画面观察，删除地理原型的绝对断言。"
+    ]
+  }
+}

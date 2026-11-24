@@ -1,0 +1,74 @@
+[
+  {
+    "id": "commons-dresden-1839",
+    "sourceURL": "https://skd-online-collection.skd.museum/Details/Index/240856",
+    "imageURL": "https://upload.wikimedia.org/wikipedia/commons/0/07/Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight_-_Google_Art_Project.jpg",
+    "width": 4984,
+    "height": 2957,
+    "imageSHA256": "32307395d36a3506b568fa3150fca29a8be5f98480e26ef80f1ecc22cb30c6d5",
+    "license": "Public Domain Mark 1.0 (PD-Art)",
+    "sourceRefs": [
+      "https://skd-online-collection.skd.museum/Details/Index/240856",
+      "https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight_-_Google_Art_Project.jpg",
+      "https://artsandculture.google.com/asset/QQG0t8oNcwu1Jw"
+    ],
+    "visualReview": "Downloaded original inspected; no AI enhancement or repainting",
+    "reviewedOn": "2026-11-13"
+  },
+  {
+    "id": "met-439343",
+    "sourceURL": "https://www.metmuseum.org/art/collection/search/439343",
+    "imageURL": "https://images.metmuseum.org/CRDImages/ep/original/DP-17567-001.jpg",
+    "width": 4000,
+    "height": 2611,
+    "imageSHA256": "a816130e6dd3d9314ce3e32babf084056fdaa1c52cbb671f3a4fba8e0d3d5330",
+    "license": "CC0 1.0",
+    "sourceRefs": [
+      "https://www.metmuseum.org/art/collection/search/439343"
+    ],
+    "visualReview": "Downloaded original inspected; no AI enhancement or repainting",
+    "reviewedOn": "2026-11-13"
+  },
+  {
+    "id": "met-439344",
+    "sourceURL": "https://www.metmuseum.org/art/collection/search/439344",
+    "imageURL": "https://images.metmuseum.org/CRDImages/ep/original/DP-34315-001.jpg",
+    "width": 3616,
+    "height": 4000,
+    "imageSHA256": "5ca85ac2052b28ac8891f8b7a69c701914c01a885d2d86bac6280bbc22f5ae2f",
+    "license": "CC0 1.0",
+    "sourceRefs": [
+      "https://www.metmuseum.org/art/collection/search/439344"
+    ],
+    "visualReview": "Downloaded original inspected; no AI enhancement or repainting",
+    "reviewedOn": "2026-11-13"
+  },
+  {
+    "id": "met-438159",
+    "sourceURL": "https://www.metmuseum.org/art/collection/search/438159",
+    "imageURL": "https://images.metmuseum.org/CRDImages/ep/original/DP155336.jpg",
+    "width": 3907,
+    "height": 2629,
+    "imageSHA256": "05320ec594926380db53b5ed7dcdb969c6b4498ab5d1faefb8ec50db36df05bf",
+    "license": "CC0 1.0",
+    "sourceRefs": [
+      "https://www.metmuseum.org/art/collection/search/438159"
+    ],
+    "visualReview": "Downloaded original inspected; no AI enhancement or repainting",
+    "reviewedOn": "2026-11-13"
+  },
+  {
+    "id": "met-438954",
+    "sourceURL": "https://www.metmuseum.org/art/collection/search/438954",
+    "imageURL": "https://images.metmuseum.org/CRDImages/ep/original/DP-34304-001.jpg",
+    "width": 4000,
+    "height": 3097,
+    "imageSHA256": "a640657d34503c78e3b023c5a4ef48501121cc54fc46add9e9e1ea404e0197ed",
+    "license": "CC0 1.0",
+    "sourceRefs": [
+      "https://www.metmuseum.org/art/collection/search/438954"
+    ],
+    "visualReview": "Downloaded original inspected; no AI enhancement or repainting",
+    "reviewedOn": "2026-11-13"
+  }
+]

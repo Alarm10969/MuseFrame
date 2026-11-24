@@ -1,0 +1,21 @@
+MuseFrame catalog — 2026-11-13 edition
+
+The Metropolitan Museum of Art (364 works):
+https://metmuseum.github.io/
+Images and museum metadata are CC0 1.0; each record was checked isPublicDomain=true.
+https://creativecommons.org/publicdomain/zero/1.0/
+https://www.metmuseum.org/policies/image-resources
+
+Wikimedia Commons curated record (1 work):
+Johan Christian Dahl, View of Dresden by Moonlight, 1839.
+Collection: Galerie Neue Meister, Staatliche Kunstsammlungen Dresden, Gal.-Nr. 2206 D.
+Image: Google Art Project / Wikimedia Commons; photo credit Hans Peter Klut / Elke Estel.
+https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Dresden_by_Moonlight_-_Google_Art_Project.jpg
+The file is identified as Public Domain Mark 1.0 / PD-Art, not CC0.
+https://creativecommons.org/publicdomain/mark/1.0/
+Commons notes that the faithful reproduction is considered public domain in the US;
+reuse of PD-Art reproductions in other jurisdictions may differ. Preserve the source record.
+Metadata is an independent factual transcription; this does not relicense the source website.
+
+Object-specific provenance, attribution, source URLs and image licenses are in seed.json.
+Preview images are requested from their sources. The app retains images used as desktop wallpapers.
